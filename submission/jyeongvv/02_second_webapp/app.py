@@ -54,7 +54,8 @@ def main():
     # 부제목
     st.subheader(" :웃음: 귀하의 합격을 기원합니다! :웃음: ")
   with tab1 :
-    st.markdown("[![Foo](https://i.imgur.com/SywJPmA.png)](https://www.naver.com/)")
+    st.markdown("[![Foo](https://i.imgur.com/SywJPmA.png)](https://map.naver.com/)")
+    # 이미지에 링크 넣는 법
     pass
   with tab2 :
     # tab2 에 담을 내용

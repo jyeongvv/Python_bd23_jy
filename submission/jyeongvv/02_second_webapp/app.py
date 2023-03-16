@@ -54,7 +54,7 @@ def main():
     # 부제목
     st.subheader(" :웃음: 귀하의 합격을 기원합니다! :웃음: ")
   with tab1 :
-    # tab1 에 담을 내용
+    st.markdown("[![Foo](https://ibb.co/gZtJp06)](https://www.naver.com/)")
     pass
   with tab2 :
     # tab2 에 담을 내용

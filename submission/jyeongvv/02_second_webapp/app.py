@@ -58,6 +58,6 @@ def main():
     pass
   with tab2 :
     # tab2 에 담을 내용
-    pass
+    pass   
 if __name__ == '__main__':
   main()

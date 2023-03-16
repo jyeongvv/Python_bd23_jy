@@ -52,7 +52,7 @@ def main():
     st.dataframe(result, width=800, height=500)
     # .style.set_table_styles([{'selector': 'th', 'props': [('max-width', '1000px')]}]),
     # 부제목
-    st.subheader(":웃음: 귀하의 합격을 기원합니다! :웃음:")
+    st.subheader(" :웃음: 귀하의 합격을 기원합니다! :웃음: ")
   with tab1 :
     # tab1 에 담을 내용
     pass
